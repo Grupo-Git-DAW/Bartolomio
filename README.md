@@ -1,2 +1,2 @@
 # Bartolomio
-Comerme la POLLA
+Manĝu mian dikon
