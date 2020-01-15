@@ -2,6 +2,7 @@
 ------------------------------------
   Arcade - Architecture
   Version: 1.0
+  Beh, beh, beh~~ 
  ------------------------------------ 
  ====================================*/
 
@@ -11,6 +12,7 @@
 
 /*----------------------------------------*/
 /* Template default CSS
+/*		miau miau miau 					  */
 /*----------------------------------------*/
 html,
 body {
@@ -411,7 +413,7 @@ ol {
 
 .circle-progress .prog-title h3 {
 	font-size: 18px;
-	color: #727272;
+	color: #443e7770; /*727272*/
 }
 
 .img-popup-warp .mfp-content {
@@ -495,7 +497,7 @@ ol {
 	left: 50%;
 	margin-left: 1px;
 	top: 0;
-	background: #baff00;
+	background: #4c00ff;
 	-webkit-transition: all 0.4s;
 	-o-transition: all 0.4s;
 	transition: all 0.4s;
@@ -514,7 +516,7 @@ ol {
 /*----------------------------------------*/
 .hero-section {
 	height: 960px;
-	background: #ededed;
+	background: #db9f9f;
 	position: relative;
 }
 
