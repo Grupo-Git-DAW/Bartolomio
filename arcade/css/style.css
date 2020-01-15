@@ -130,7 +130,7 @@ ol {
 .section-title h1,
 .section-title h2 {
 	display: inline-block;
-	background: #baff00;
+	background:#2934F8 /*#baff00*/;
 	padding: 0 20px;
 	margin-bottom: 0;
 	font-size: 60px;
@@ -152,7 +152,7 @@ ol {
 	top: 0;
 	left: 0;
 	z-index: 999999;
-	background: #fff;
+	background: #e36cee86/*#fff*/;
 }
 
 .loader {
@@ -216,11 +216,11 @@ ol {
 }
 
 .site-btn:after {
-	bottom: 8px;
+	bottom: 9px/*8*/;
 }
 
 .site-btn:before {
-	bottom: 18px;
+	bottom: 19px/*18*/;
 }
 
 .site-btn.sb-light {
@@ -238,12 +238,12 @@ ol {
 
 .site-btn.sb-dark:after,
 .site-btn.sb-dark:before {
-	background: #222222;
+	background: #370f6d/*#222222*/;
 }
 
 .site-btn.sb-solid-color {
-	background: #baff00;
-	border-color: #baff00;
+	background: #194109;  /*baff00 */
+	border-color: #c724b1;
 }
 
 .site-btn.sb-solid-color:after,
